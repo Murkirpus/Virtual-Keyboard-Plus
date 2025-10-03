@@ -6,7 +6,7 @@
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-<img src="./Screenshot 2025-07-10 163228.png" alt="Демонстрация" width="800">
+<img src="./Screenshot 2025-10-03 223331.png" alt="Демонстрация" width="800">
 
 ## ✨ Возможности
 
