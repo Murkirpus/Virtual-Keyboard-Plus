@@ -65,7 +65,7 @@ pip install pyperclip
 ### Запуск приложения
 
 ```bash
-python virtual_keyboard_plus.py
+python Virtual-Keyboard-Plus.py
 ```
 
 ## 🎮 Использование
